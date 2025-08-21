@@ -20,11 +20,32 @@ Odaklandığım alanlar:
 
 ---
 
-<!-- GRAFİKLER -->
-## 📊 GitHub İstatistikleri
+<!-- REPO BAZLI KARTLAR -->
+## 📦 Öne Çıkan Repolar
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=znach-lab&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=znach-lab&layout=compact&theme=radical&hide_border=true" height="150"/>
+  <a href="https://github.com/znach-lab/daily-logs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=znach-lab&repo=znach-lab&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/znach-lab/tasks">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=znach-lab&repo=znach-lab&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/znach-lab/main-goal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=znach-lab&repo=znach-lab&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/znach-lab/error-logs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=znach-lab&repo=znach-lab&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  </a>
+</p>
+
+<!-- ACTIVITY GRAPH -->
+## 📈 Aktivite Grafiği
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=znach-lab&theme=tokyo-night&area=true&custom_title=znach-lab%20Activity%20Graph" />
 </p>
 
 ---
