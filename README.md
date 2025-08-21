@@ -53,25 +53,21 @@ flowchart TD
         TS["Given Tasks"]
         AH["Error Logs"]
         EL["Main Goal"]
+        TR["Tasks Report"]
     end
 
     A --> DL
     A --> TS
     A --> AH
     A --> EL
-  
-    %% Renk ayarları
-    style A fill:#1f2937,stroke:#555,color:#fff
-    style DL fill:#2563eb,stroke:#1e3a8a,color:#fff
-    style TS fill:#059669,stroke:#064e3b,color:#fff
-    style AH fill:#d97706,stroke:#92400e,color:#fff
-    style EL fill:#dc2626,stroke:#7f1d1d,color:#fff  
+    A --> TR
   
     %% Tıklanabilir bağlantılar (kendi repo linklerinle değiştir)
     click DL "https://github.com/KULLANICI_ADI/daily-logs" "_blank"
     click TS "https://github.com/KULLANICI_ADI/tasks" "_blank"
     click AH "https://github.com/KULLANICI_ADI/main-goal" "_blank"
     click EL "https://github.com/KULLANICI_ADI/error-logs" "_blank"
+    click TR "https://github.com/KULLANICI_ADI/error-logs" "_blank"
 
     %% Genel sınıflar (yuvarlatılmış köşe + daha kalın çizgi)
     classDef root fill:#0b1220,stroke:#334155,stroke-width:2px,color:#e5e7eb,rx:12,ry:12;
@@ -82,14 +78,14 @@ flowchart TD
 
     %% Atamalar
     class A root
-    class DL,TS,AH,EL card
+    class DL,TS,AH,EL,TR card
 
     %% Hafif vurgu istersen tek tek ton verebilirsin:
-    style DL fill:#1e293b,stroke:#1f2937,color:#e5e7eb
-    style TS fill:#0b3b2e,stroke:#064e3b,color:#e5e7eb
+    style DL fill:#0D1164,stroke:#1f2937,color:#e5e7eb
+    style TS fill:#640D5F,stroke:#064e3b,color:#e5e7eb
     style AH fill:#3b2f0b,stroke:#92400e,color:#e5e7eb
-    style EL fill:#3b0b0b,stroke:#7f1d1d,color:#e5e7eb
-
+    style EL fill:#EA2264,stroke:#7f1d1d,color:#e5e7eb
+    style TR fill:#F78D60,stroke:#7f1d1d,color:#e5e7eb
 ```
 
 ---
