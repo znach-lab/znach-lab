@@ -96,7 +96,7 @@ flowchart TD
   <tr>
     <td>
       <a href="https://github.com/znach-lab/lab-daily">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=znach-lab&repo=znach-lab&theme=darkhub&bg_color=00000000&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=znach-lab&repo=lab-daily&theme=darkhub&bg_color=00000000&hide_border=true" />
       </a>
     </td>
     <td>
