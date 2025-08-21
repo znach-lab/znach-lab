@@ -53,6 +53,7 @@ flowchart TD
         EL["Error Logs"]
         AH["Main Goal"]
         TR["Tasks Report"]
+        RM["Road MAP"]
     end
 
     A --> DL
@@ -60,6 +61,7 @@ flowchart TD
     A --> AH
     A --> EL
     A --> TR
+    A --> RM
   
     %% Tıklanabilir bağlantılar (kendi repo linklerinle değiştir)
     click DL "https://github.com/znach-lab/lab-daily" "_blank"
@@ -67,6 +69,8 @@ flowchart TD
     click AH "https://github.com/znach-lab/main-goal" "_blank"
     click EL "https://github.com/znach-lab/error-logs" "_blank"
     click TR "https://github.com/znach-lab/task-reports" "_blank"
+    click RM "https://github.com/znach-lab/roadmap" "_blank"
+
 
     %% Genel sınıflar (yuvarlatılmış köşe + daha kalın çizgi)
     classDef root fill:#0b1220,stroke:#334155,stroke-width:2px,color:#e5e7eb,rx:12,ry:12;
@@ -77,7 +81,7 @@ flowchart TD
 
     %% Atamalar
     class A root
-    class DL,TS,AH,EL,TR card
+    class DL,TS,AH,EL,TR,RM card
 
     %% Hafif vurgu istersen tek tek ton verebilirsin:
     style DL fill:#0D1164,stroke:#1f2937,color:#e5e7eb
@@ -85,6 +89,7 @@ flowchart TD
     style AH fill:#3b2f0b,stroke:#92400e,color:#e5e7eb
     style EL fill:#EA2264,stroke:#7f1d1d,color:#e5e7eb
     style TR fill:#F78D60,stroke:#7f1d1d,color:#e5e7eb
+    style RM fill:#F78D69,stroke:#7f1d1d,color:#e5e7eb
 ```
 
 ---
@@ -121,7 +126,7 @@ flowchart TD
 ---
 
 <!-- İLETİŞİM -->
-## 📡 Contact Me
+## Contact Me
 <p align="center">
   <a href="mailto:example@mail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
