@@ -100,7 +100,7 @@ flowchart TD
       </a>
     </td>
     <td>
-      <a href="https://github.com/znach-lab/tasks">
+      <a href="https://github.com/znach-lab/given-tasks">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=znach-lab&repo=given-tasks&theme=darkhub&bg_color=00000000&hide_border=true" />
       </a>
     </td>
