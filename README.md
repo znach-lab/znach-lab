@@ -107,8 +107,8 @@ flowchart TD
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/znach-lab/main-goal">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=znach-lab&repo=main-goal&theme=darkhub&bg_color=00000000&hide_border=true" />
+      <a href="https://github.com/znach-lab/task-reports">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=znach-lab&repo=task-reports&theme=darkhub&bg_color=00000000&hide_border=true" />
       </a>
     </td>
     <td>
