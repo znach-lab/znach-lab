@@ -15,9 +15,9 @@ Odaklandığım alanlar:
 
 ---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vagrant,debian,ubuntu,linux,windows,apple,omv,vscode,docker,kubernetes,ansible,bash,powershell,python" />
-</p>
+<!-- TEKNOLOJİ ROZETLERİ --> 
+## 🛠️ Kullandığım Teknolojiler 
+<p align="center"> <img src="https://skillicons.dev/icons?i=linux,debian,windows,ansible,git,github,bash,powershell" /> </p>
 
 ---
 
