@@ -51,8 +51,8 @@ flowchart TD
         direction TB
         DL["Daily Logs"]
         TS["Given Tasks"]
-        AH["Error Logs"]
-        EL["Main Goal"]
+        EH["Error Logs"]
+        AH["Main Goal"]
         TR["Tasks Report"]
     end
 
