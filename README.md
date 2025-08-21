@@ -15,10 +15,8 @@ Odaklandığım alanlar:
 
 ---
 
-<!-- TEKNOLOJİ ROZETLERİ -->
-## 🛠️ Kullandığım Teknolojiler
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,redhat,ansible,docker,kubernetes,git,github,python,bash,powershell,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vagrant,debian,ubuntu,linux,windows,apple,omv,vscode,docker,kubernetes,ansible,bash,powershell,python" />
 </p>
 
 ---
