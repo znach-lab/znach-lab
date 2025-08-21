@@ -19,13 +19,12 @@ Odaklandığım alanlar:
 
 ---
 
-<!-- ACTIVITY GRAPH -->
-## Aktivite Grafiği
+<!-- ACTIVITY GRAPH --> 
+## Aktivite Grafiği 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=znach-lab&theme=tokyo-night&area=true&custom_title=znach-lab%20Activity%20Graph" />
+<p align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=znach-lab&theme=tokyo-night&area=true&custom_title=znach-lab%20Activity%20Graph" /> 
 </p>
-
 ---
 
 <!-- PROJELER -->
