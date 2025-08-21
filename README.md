@@ -4,7 +4,7 @@
 </p>
 
 <!-- HAKKINDA -->
-## 🔬 Hakkımda
+## Hakkımda
 Merhaba!  
 Ben **ZNACH!**, burada **lab ortamları** için kurduğum senaryoları, otomasyon sistemlerini ve deneysel projelerimi paylaşıyorum.  
 Odaklandığım alanlar:  
@@ -14,13 +14,13 @@ Odaklandığım alanlar:
 
 ---
 <!-- TEKNOLOJİ ROZETLERİ --> 
-## 🛠️ Kullandığım Teknolojiler 
+## Kullandığım Teknolojiler 
 <p align="center"> <img src="https://skillicons.dev/icons?i=linux,debian,windows,ansible,git,github,bash,powershell" /> </p>
 
 ---
 
 <!-- ACTIVITY GRAPH -->
-## 📈 Aktivite Grafiği
+## Aktivite Grafiği
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=znach-lab&theme=tokyo-night&area=true&custom_title=znach-lab%20Activity%20Graph" />
@@ -29,7 +29,7 @@ Odaklandığım alanlar:
 ---
 
 <!-- PROJELER -->
-## 📌 GitHub Hesap Diyagramı
+## GitHub Hesap Diyagramı
 
 ```mermaid
 %% Koyu tema + varsayılan renkler
@@ -95,7 +95,7 @@ flowchart TD
 ---
 
 <!-- DİNAMİK CARDLAR -->
-## 🎯 Dinamik Görsellik
+## Repolar
 <table align="center">
   <tr>
     <td>
@@ -126,11 +126,11 @@ flowchart TD
 ---
 
 <!-- İLETİŞİM -->
-## 📡 Bana Ulaş
+## 📡 Contact Me
 <p align="center">
   <a href="mailto:example@mail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/znach-lab"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
