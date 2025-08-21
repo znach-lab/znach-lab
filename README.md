@@ -8,10 +8,9 @@
 Merhaba!  
 Ben **ZNACH!**, burada **lab ortamları** için kurduğum senaryoları, otomasyon sistemlerini ve deneysel projelerimi paylaşıyorum.  
 Odaklandığım alanlar:  
-- ⚙️ **Virtualization** (QEMU, KVM, Libvirt, Vagrant)  
-- 🐧 **Linux System Engineering** (Debian/Ubuntu)  
-- 🤖 **Automation** (Ansible, Bash, PowerShell)  
-- 🔒 **Cybersecurity Labs** (pfSense, SIEM, Malware Analysis)  
+-  **Virtualization** (QEMU, KVM, Libvirt, Vagrant)  
+-  **Linux System Engineering** (Debian)  
+-  **Automation** (Ansible, Bash, PowerShell, Preseed, )  
 
 ---
 
