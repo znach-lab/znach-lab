@@ -63,11 +63,11 @@ flowchart TD
     A --> TR
   
     %% Tıklanabilir bağlantılar (kendi repo linklerinle değiştir)
-    click DL "https://github.com/KULLANICI_ADI/daily-logs" "_blank"
-    click TS "https://github.com/KULLANICI_ADI/tasks" "_blank"
-    click AH "https://github.com/KULLANICI_ADI/main-goal" "_blank"
-    click EL "https://github.com/KULLANICI_ADI/error-logs" "_blank"
-    click TR "https://github.com/KULLANICI_ADI/error-logs" "_blank"
+    click DL "https://github.com/znach-lab/lab-daily" "_blank"
+    click TS "https://github.com/znach-lab/given-tasks" "_blank"
+    click AH "https://github.com/znach-lab/main-goal" "_blank"
+    click EL "https://github.com/znach-lab/error-logs" "_blank"
+    click TR "https://github.com/znach-lab/task-reports" "_blank"
 
     %% Genel sınıflar (yuvarlatılmış köşe + daha kalın çizgi)
     classDef root fill:#0b1220,stroke:#334155,stroke-width:2px,color:#e5e7eb,rx:12,ry:12;
