@@ -41,29 +41,35 @@ Odaklandığım alanlar:
   'fontFamily':'Inter, ui-sans-serif, system-ui'
 }}}%%
 
-
-
 flowchart TD
     A["**SANBOX**"]
 
-    subgraph S1[ ]
-        direction TB
+    %% ÜSTTEKİ 3 KART (A'ya yukarıdan bağlanır)
+    subgraph TOP[ ]
+        direction LR
         DL["Daily Logs"]
         TS["Given Tasks"]
         EL["Error Logs"]
+    end
+
+    %% ALTTAKİ 3 KART (A'dan aşağıya bağlanır)
+    subgraph BOTTOM[ ]
+        direction LR
         AH["Main Goal"]
         TR["Tasks Report"]
         RM["Road MAP"]
     end
 
-    A --> DL
-    A --> TS
+    %% Yerleşimi belirleyen bağlantılar
+    DL --> A
+    TS --> A
+    EL --> A
+
     A --> AH
-    A --> EL
     A --> TR
     A --> RM
   
-    %% Tıklanabilir bağlantılar (kendi repo linklerinle değiştir)
+    %% Tıklanabilir bağlantılar
     click DL "https://github.com/znach-lab/lab-daily" "_blank"
     click TS "https://github.com/znach-lab/given-tasks" "_blank"
     click AH "https://github.com/znach-lab/main-goal" "_blank"
@@ -71,25 +77,25 @@ flowchart TD
     click TR "https://github.com/znach-lab/task-reports" "_blank"
     click RM "https://github.com/znach-lab/roadmap" "_blank"
 
-
     %% Genel sınıflar (yuvarlatılmış köşe + daha kalın çizgi)
     classDef root fill:#0b1220,stroke:#334155,stroke-width:2px,color:#e5e7eb,rx:12,ry:12;
     classDef card fill:#111827,stroke:#374151,stroke-width:1.6px,color:#e5e7eb,rx:12,ry:12;
 
-    %% Kenar renkleri biraz daha belirgin
-    linkStyle default stroke:#475569,stroke-width:1.6px;
+    %% Ok/kenar renkleri (BEYAZ)
+    linkStyle default stroke:#ffffff,stroke-width:1.6px;
 
     %% Atamalar
     class A root
     class DL,TS,AH,EL,TR,RM card
 
-    %% Hafif vurgu istersen tek tek ton verebilirsin:
+    %% Vurgu renkleri (isteğe bağlı)
     style DL fill:#0D1164,stroke:#1f2937,color:#e5e7eb
     style TS fill:#640D5F,stroke:#064e3b,color:#e5e7eb
     style AH fill:#3b2f0b,stroke:#92400e,color:#e5e7eb
     style EL fill:#EA2264,stroke:#7f1d1d,color:#e5e7eb
     style TR fill:#F78D60,stroke:#7f1d1d,color:#e5e7eb
     style RM fill:#F78D69,stroke:#7f1d1d,color:#e5e7eb
+
 ```
 
 ---
