@@ -101,19 +101,19 @@ flowchart TD
     </td>
     <td>
       <a href="https://github.com/znach-lab/tasks">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=znach-lab&repo=znach-lab&theme=darkhub&bg_color=00000000&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=znach-lab&repo=given-tasks&theme=darkhub&bg_color=00000000&hide_border=true" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/znach-lab/main-goal">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=znach-lab&repo=znach-lab&theme=darkhub&bg_color=00000000&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=znach-lab&repo=main-goal&theme=darkhub&bg_color=00000000&hide_border=true" />
       </a>
     </td>
     <td>
       <a href="https://github.com/znach-lab/error-logs">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=znach-lab&repo=znach-lab&theme=darkhub&bg_color=00000000&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=znach-lab&repo=error-logs&theme=darkhub&bg_color=00000000&hide_border=true" />
       </a>
     </td>
   </tr>
