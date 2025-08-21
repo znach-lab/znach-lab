@@ -6,7 +6,7 @@
 <!-- HAKKINDA -->
 ## 🔬 Hakkımda
 Merhaba!  
-Ben **Seyfullah Kaya**, burada **lab ortamları** için kurduğum senaryoları, otomasyon sistemlerini ve deneysel projelerimi paylaşıyorum.  
+Ben **ZNACH!**, burada **lab ortamları** için kurduğum senaryoları, otomasyon sistemlerini ve deneysel projelerimi paylaşıyorum.  
 Odaklandığım alanlar:  
 - ⚙️ **Virtualization** (QEMU, KVM, Libvirt, Vagrant)  
 - 🐧 **Linux System Engineering** (Debian/Ubuntu)  
