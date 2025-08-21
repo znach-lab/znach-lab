@@ -13,33 +13,11 @@ Odaklandığım alanlar:
 - 🔹 **Automation** (Ansible, Bash, PowerShell, Preseed, )  
 
 ---
-
 <!-- TEKNOLOJİ ROZETLERİ --> 
 ## 🛠️ Kullandığım Teknolojiler 
 <p align="center"> <img src="https://skillicons.dev/icons?i=linux,debian,windows,ansible,git,github,bash,powershell" /> </p>
 
 ---
-
-<!-- REPO BAZLI KARTLAR -->
-## 📦 Öne Çıkan Repolar
-
-<p align="center">
-  <a href="https://github.com/znach-lab/daily-logs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=znach-lab&repo=znach-lab&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/znach-lab/tasks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=znach-lab&repo=znach-lab&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/znach-lab/main-goal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=znach-lab&repo=znach-lab&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/znach-lab/error-logs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=znach-lab&repo=znach-lab&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  </a>
-</p>
 
 <!-- ACTIVITY GRAPH -->
 ## 📈 Aktivite Grafiği
