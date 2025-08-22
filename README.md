@@ -38,10 +38,9 @@ mindmap
       All Tasks
       Main Goal
     Daily Logs
-       Errors
-       Task Reports
-       Given Tasks
-
+      Errors
+      Task Reports
+      Given Tasks
     Roadmap
       Daily Reports
       Roadmap
