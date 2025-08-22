@@ -32,70 +32,19 @@ My focus areas are:
 ## Github Account Diagram
 
 ```mermaid
-%% Koyu tema + varsayılan renkler
-%% (İstersen 'fontFamily'ni değiştirebilirsin)
-%%{init: {'theme':'dark', 'themeVariables': {
-  'primaryColor':'#0f172a',          /* arka plan baz */
-  'primaryTextColor':'#e5e7eb',      /* yazı */
-  'primaryBorderColor':'#334155',    /* kenar çizgisi */
-  'lineColor':'#475569',
-  'fontFamily':'Inter, ui-sans-serif, system-ui'
-}}}%%
+mindmap
+  root((SANBOX))
+    Big Picture
+      All Tasks
+      Main Goal
+    Daily Logs
+       Errors
+       Task Reports
+       Given Tasks
 
-flowchart TD
-    A["**SANBOX**"]
-
-    %% ÜSTTEKİ 3 KART (A'ya yukarıdan bağlanır)
-    subgraph TOP[ ]
-        direction LR
-        DL["Daily Logs"]
-        TS["Given Tasks"]
-        EL["Error Logs"]
-    end
-
-    %% ALTTAKİ 3 KART (A'dan aşağıya bağlanır)
-    subgraph BOTTOM[ ]
-        direction LR
-        AH["Main Goal"]
-        TR["Tasks Report"]
-        RM["Road MAP"]
-    end
-
-    %% Yerleşimi belirleyen bağlantılar
-    DL --> A
-    TS --> A
-    EL --> A
-
-    A --> AH
-    A --> TR
-    A --> RM
-  
-    %% Tıklanabilir bağlantılar
-    click DL "https://github.com/znach-lab/lab-daily" "_blank"
-    click TS "https://github.com/znach-lab/given-tasks" "_blank"
-    click AH "https://github.com/znach-lab/main-goal" "_blank"
-    click EL "https://github.com/znach-lab/error-logs" "_blank"
-    click TR "https://github.com/znach-lab/task-reports" "_blank"
-    click RM "https://github.com/znach-lab/roadmap" "_blank"
-
-    %% Genel sınıflar (yuvarlatılmış köşe + daha kalın çizgi)
-    classDef root fill:#0b1220,stroke:#334155,stroke-width:2px,color:#e5e7eb,rx:12,ry:12;
-    classDef card fill:#111827,stroke:#374151,stroke-width:1.6px,color:#e5e7eb,rx:12,ry:12;
-
-    %% Ok/kenar renkleri (BEYAZ)
-    linkStyle default stroke:#ffffff,stroke-width:1.6px;
-
-    %% Atamalar
-    class A root
-    class DL,TS,AH,EL,TR,RM card
-
-    %% Vurgu renkleri (isteğe bağlı)
-    style DL fill:#0D1164,stroke:#1f2937,color:#e5e7eb
-    style TS fill:#640D5F,stroke:#064e3b,color:#e5e7eb
-    style AH fill:#3b2f0b,stroke:#92400e,color:#e5e7eb
-    style EL fill:#EA2264,stroke:#7f1d1d,color:#e5e7eb
-    style TR fill:#F78D60,stroke:#7f1d1d,color:#e5e7eb
-    style RM fill:#F78D69,stroke:#7f1d1d,color:#e5e7eb
+    Roadmap
+      Daily Reports
+      Roadmap
 
 ```
 
