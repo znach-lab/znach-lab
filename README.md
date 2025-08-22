@@ -4,31 +4,32 @@
 </p>
 
 <!-- HAKKINDA -->
-## Hakkımda
-Merhaba!  
-Ben **ZNACH!**, burada **lab ortamları** için kurduğum senaryoları, otomasyon sistemlerini ve deneysel projelerimi paylaşıyorum.  
-Odaklandığım alanlar:  
+## About Me
+Hello!  
+I'm **ZNACH!**, and here I share the scripts, automation systems, and experimental projects I've created for **lab environments**.
+My focus areas are: 
 - 🔹 **Virtualization** (QEMU, KVM, Libvirt, Vagrant)  
 - 🔹 **Linux System Engineering** (Debian)  
-- 🔹 **Automation** (Ansible, Bash, PowerShell, Preseed, )  
+- 🔹 **Automation** (Ansible, Bash, PowerShell, Preseed)
+- 🔹 **Hackintosh / OpenCore** (MacOS)
 
 ---
 <!-- TEKNOLOJİ ROZETLERİ --> 
-## Kullandığım Teknolojiler 
-<p align="center"> <img src="https://skillicons.dev/icons?i=linux,debian,windows,ansible,git,github,bash,powershell" /> </p>
+## Technologies I Use 
+<p align="center"> <img src="https://skillicons.dev/icons?i=linux,debian,windows,ansible,git,github,bash,powershell,ruby" /> </p>
 
 ---
 
 <!-- ACTIVITY GRAPH --> 
-## Aktivite Grafiği 
+## Contributions Chart 
 
 <p align="center"> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=znach-lab&theme=tokyo-night&area=true&custom_title=znach-lab%20Activity%20Graph" /> 
 </p>
----
 
+---
 <!-- PROJELER -->
-## GitHub Hesap Diyagramı
+## Github Account Diagram
 
 ```mermaid
 %% Koyu tema + varsayılan renkler
@@ -101,7 +102,7 @@ flowchart TD
 ---
 
 <!-- DİNAMİK CARDLAR -->
-## Repolar
+## Featured Projects
 <table align="center">
   <tr>
     <td>
